@@ -14,3 +14,9 @@ Daily learning notes, experiments, and projects on AI, LLMs, RAG, Prompt Enginee
 - Practiced writing specific and structured prompts
 - Explored the importance of context and output formatting
 - Created example prompts for AI applications
+
+### Day 3 - AI Agents Basics
+
+- Learned the fundamentals of AI Agents
+- Explored tools, memory, and planning
+- Studied real-world AI Agent applications
