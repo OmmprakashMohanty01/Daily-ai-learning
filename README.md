@@ -20,3 +20,13 @@ Daily learning notes, experiments, and projects on AI, LLMs, RAG, Prompt Enginee
 - Learned the fundamentals of AI Agents
 - Explored tools, memory, and planning
 - Studied real-world AI Agent applications
+
+## Day 4 - LangChain Fundamentals
+
+Learned the fundamentals of LangChain
+
+* Explored chains, prompts, and memory
+* Studied how LangChain connects LLMs with external data
+* Built simple chain examples
+* Understood the role of retrievers and agents
+
